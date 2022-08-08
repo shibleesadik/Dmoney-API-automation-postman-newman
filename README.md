@@ -11,4 +11,5 @@ npm i
 npm test
 ```
 
-![Screenshot_16](https://user-images.githubusercontent.com/88944197/183460052-386bdf62-da50-4a3b-a5d9-c12ad5bf4e58.png)
+![image](https://user-images.githubusercontent.com/88944197/183472815-7a4fbbbf-10e4-47a5-9299-647267476ae3.png)
+
